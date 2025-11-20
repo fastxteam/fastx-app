@@ -45,6 +45,36 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-## Star History
+## ❤️ 致谢 Contributors
 
-[![Star History Chart](https://api.star-history.com/svg?repos=fastxteam/fastx-app&type=Date)](https://www.star-history.com/#fastxteam/fastx-app&Date)
+感谢所有贡献者！🎉
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fastxterm"><img src="https://avatars.githubusercontent.com/u/39906649?v=4&size=64" width="80px;" alt="fastxterm"/><br /><sub><b>fastxterm</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fastxterm"><img src="https://avatars.githubusercontent.com/u/39906649?v=4&size=64" width="80px;" alt="fastxterm"/><br /><sub><b>fastxterm</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fastxterm"><img src="https://avatars.githubusercontent.com/u/39906649?v=4&size=64" width="80px;" alt="fastxterm"/><br /><sub><b>fastxterm</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fastxterm"><img src="https://avatars.githubusercontent.com/u/39906649?v=4&size=64" width="80px;" alt="fastxterm"/><br /><sub><b>fastxterm</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fastxterm"><img src="https://avatars.githubusercontent.com/u/39906649?v=4&size=64" width="80px;" alt="fastxterm"/><br /><sub><b>fastxterm</b></sub></a><br /></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fastxterm"><img src="https://avatars.githubusercontent.com/u/39906649?v=4&size=64" width="80px;" alt="fastxterm"/><br /><sub><b>fastxterm</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fastxterm"><img src="https://avatars.githubusercontent.com/u/39906649?v=4&size=64" width="80px;" alt="fastxterm"/><br /><sub><b>fastxterm</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fastxterm"><img src="https://avatars.githubusercontent.com/u/39906649?v=4&size=64" width="80px;" alt="fastxterm"/><br /><sub><b>fastxterm</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fastxterm"><img src="https://avatars.githubusercontent.com/u/39906649?v=4&size=64" width="80px;" alt="fastxterm"/><br /><sub><b>fastxterm</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fastxterm"><img src="https://avatars.githubusercontent.com/u/39906649?v=4&size=64" width="80px;" alt="fastxterm"/><br /><sub><b>fastxterm</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fastxteam/fastx-app&type=Date)](https://star-history.com/#fastxteam/fastx-app&Date)
