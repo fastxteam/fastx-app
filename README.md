@@ -14,6 +14,16 @@ pnpm dev
 bun dev
 ```
 
+
+Shadcn ui components add
+
+```bash
+npx shadcn@latest add scroll-area select separator sheet sidebar skeleton slider sonner spinner switch table tabs textarea toggle-group toggle tooltip
+npx shadcn@latest add form hover-card input-group input item kbd label menubar native-select  navigation-menu pagination popover progress radio-group resizable
+npx shadcn@latest add collapsible command context-menu table dialog drawer dropdown-menu empty field
+npx shadcn@latest add checkbox chart carousel calendar button-group breadcrumb accordion alert-dialog alert avatar badge button
+```  
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
