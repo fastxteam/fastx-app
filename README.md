@@ -50,8 +50,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 感谢所有贡献者！🎉
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- prettier-ignore-start -->
+
 <!-- markdownlint-disable -->
+
 <table>
   <tbody>
     <tr>
@@ -70,11 +73,15 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
     </tr>
   </tbody>
 </table>
+
 <!-- markdownlint-restore -->
+
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=fastxteam/fastx-app&type=Date)](https://star-history.com/#fastxteam/fastx-app&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=fastxteam/fastx-app&type=date&legend=top-left)](https://www.star-history.com/#fastxteam/fastx-app&type=date&legend=top-left)
